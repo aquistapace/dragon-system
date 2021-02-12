@@ -49,7 +49,7 @@ Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://githu
 
 ---
 ## 📺 Demo
-Projeto hospedado no Heroku, clique [aqui](https://dashboard.heroku.com/apps) para acessar.
+Projeto hospedado no Heroku, clique [aqui](https://desafio-dragon-system.herokuapp.com/) para acessar.
 ### 🔒Acessando a aplicação
 Utilize algum dos usuários abaixo:
  - E-mail: banguela@email.com.br Password:12345678
