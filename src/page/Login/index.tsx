@@ -28,7 +28,7 @@ const users: User[] = [
     password: '12345678',
   },
   {
-    name: 'Banguela - Treinar Dragão',
+    name: 'Banguela -Como Treinar Dragão',
     email: 'banguela@email.com.br',
     password: '12345678',
   },
