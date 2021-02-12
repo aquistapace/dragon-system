@@ -78,18 +78,18 @@ Utilize algum dos usuários abaixo:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="login" title="Página de Login" src="./assets/home.png" width="400px">
+  <img alt="login" title="Página de Login" src=".src/assets/home.png" width="400px">
 
   <img alt="home" title="Pagina Home" src="./assets/login.png" width="400px">
-  <img alt="notFound" title="Pagina Não Encontrada" src="./assets/page_not_found.png" width="400px">
+  <img alt="notFound" title="Pagina Não Encontrada" src=".src/assets/page_not_found.png" width="400px">
 </p>
 
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile-login.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".src/assets/mobile-login.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile-home" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".src/assets/mobile-home" width="200px">
 </p>
 
 
@@ -113,9 +113,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:aquistapace/dragon-system.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd dragon-system
-
-# Vá para a pasta da aplicação
 $ cd dragon-system
 
 # Instale as dependências
