@@ -80,16 +80,16 @@ Utilize algum dos usuários abaixo:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
 
-  <img alt="home" title="Pagina Home" src="./assets/login.png" width="400px">
-  <img alt="notFound" title="Pagina Não Encontrada" src=".src/assets/page_not_found.png" width="400px">
+  <img alt="home" title="Pagina Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/home.png" width="400px">
+  <img alt="notFound" title="Pagina Não Encontrada" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets//page_not_found.png" width="400px">
 </p>
 
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".src/assets/mobile-login.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile-login.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".src/assets/mobile-home" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile-home" width="200px">
 </p>
 
 
