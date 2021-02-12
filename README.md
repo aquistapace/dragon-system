@@ -22,7 +22,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Dragon System" title="#DragonSystem" src="./assets/banner.png" />
+   Dragon System
 </h1>
 
 <h4 align="center"> 
@@ -76,19 +76,20 @@ Utilize algum dos usuários abaixo:
 ## 🎨 Layout
 - O projeto desenvolvido possui Layout Responsivo.
 ### Web
-
+- Página de Login , Home e Not Found
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
+  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="home" title="Pagina Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/home.png" width="400px">
+  <img alt="notFound" title="Pagina Não Encontrada" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets//page_not_found.png" width="400px">
 </p>
 
 ### Mobile
-
+- Página de Login e Home
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
+  <img alt="Mobile Home" title="Mobile Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/mobile_login.png" width="200px">
+  <img alt="Mobile Login" title="Mobile Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile_home.png" width="200px">
 </p>
 
 
@@ -112,9 +113,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:aquistapace/dragon-system.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd dragon-system
-
-# Vá para a pasta da aplicação
 $ cd dragon-system
 
 # Instale as dependências
