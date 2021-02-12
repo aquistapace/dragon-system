@@ -22,7 +22,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Dragon System" title="#DragonSystem" src="./assets/banner.png" />
+   Dragon System
 </h1>
 
 <h4 align="center"> 
@@ -78,17 +78,18 @@ Utilize algum dos usuários abaixo:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
+  <img alt="login" title="Página de Login" src="./assets/home.png" width="400px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="home" title="Pagina Home" src="./assets/login.png" width="400px">
+  <img alt="notFound" title="Pagina Não Encontrada" src="./assets/page_not_found.png" width="400px">
 </p>
 
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile-login.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile-home" width="200px">
 </p>
 
 
