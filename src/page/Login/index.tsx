@@ -23,14 +23,19 @@ import {
 
 const users: User[] = [
   {
-    name: 'Joao da Silva',
-    email: 'user@email.com.br',
+    name: 'Mushu - Mulan',
+    email: 'mushu@email.com.br',
     password: '12345678',
   },
   {
-    name: 'Maria dos Santos',
-    email: 'maria@email.com.br',
-    password: '87654321',
+    name: 'Banguela - Treinar Dragão',
+    email: 'banguela@email.com.br',
+    password: '12345678',
+  },
+  {
+    name: 'Haku - Viagem de Chihiro',
+    email: 'haku@email.com.br',
+    password: '12345678',
   },
 ];
 
