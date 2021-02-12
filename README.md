@@ -42,14 +42,14 @@
 
 ## 💻 Sobre o projeto
 
-🐲 [Dragon System](https://nodejs.org/en/) - É uma plataforma básica de cadastro de Dragões. Nela você poderá cadastrar, visualizar, editar Dragões de uma forma simples e rápida.
+🐲 [Dragon System](https://desafio-dragon-system.herokuapp.com/) - É uma plataforma básica de cadastro de Dragões. Nela você poderá cadastrar, visualizar, editar Dragões de uma forma simples e rápida.
 
 
 Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://github.com/WoopSicredi/jobs/issues/6)
 
 ---
 ## 📺 Demo
-Projeto hospedado no Heroku, clique [aqui](https://dashboard.heroku.com/apps) para acessar.
+Projeto hospedado no Heroku, clique [aqui](https://desafio-dragon-system.herokuapp.com/) para acessar.
 ### 🔒Acessando a aplicação
 Utilize algum dos usuários abaixo:
  - E-mail: banguela@email.com.br Password:12345678
@@ -141,7 +141,7 @@ As seguintes tecnologias foram usadas no desenvolvimento do projeto:
  - **[Polished](https://github.com/styled-components/polished)**
 
 
-> Veja o arquivo  [package.json](https://github.com/aquistapace/dragon-system/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/aquistapace/dragon-system/blob/main/package.json)
 
 
 
