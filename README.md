@@ -141,7 +141,7 @@ As seguintes tecnologias foram usadas no desenvolvimento do projeto:
  - **[Polished](https://github.com/styled-components/polished)**
 
 
-> Veja o arquivo  [package.json](https://github.com/aquistapace/dragon-system/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/aquistapace/dragon-system/blob/main/package.json)
 
 
 
