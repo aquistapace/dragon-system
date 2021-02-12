@@ -76,22 +76,20 @@ Utilize algum dos usuários abaixo:
 ## 🎨 Layout
 - O projeto desenvolvido possui Layout Responsivo.
 ### Web
- #### Página de Login , Home e Not Found
+- Página de Login , Home e Not Found
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  ### Página de Login
   <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
-### Página Home
+
   <img alt="home" title="Pagina Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/home.png" width="400px">
-  ### Página Not Found
   <img alt="notFound" title="Pagina Não Encontrada" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets//page_not_found.png" width="400px">
 </p>
 
 ### Mobile
-  #### Página de Login e Home
+- Página de Login e Home
 <p align="center">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile_login.png" width="200px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile_home" width="200px">
+  <img alt="Mobile Home" title="Mobile Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/mobile_login.png" width="200px">
+  <img alt="Mobile Login" title="Mobile Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile_home.png" width="200px">
 </p>
 
 
