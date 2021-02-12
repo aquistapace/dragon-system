@@ -42,7 +42,7 @@
 
 ## 💻 Sobre o projeto
 
-🐲 [Dragon System](https://dazzling-noyce-d17abf.netlify.app/listar-dragoes) - É uma plataforma básica de cadastro de Dragões. Nela você poderá cadastrar, visualizar, editar Dragões de uma forma simples e rápida.
+🐲 Dragon System- É uma plataforma básica de cadastro de Dragões. Nela você poderá cadastrar, visualizar, editar Dragões de uma forma simples e rápida.
 
 
 Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://github.com/WoopSicredi/jobs/issues/6)
