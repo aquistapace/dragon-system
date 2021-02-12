@@ -97,7 +97,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Rodando a aplicação 
 
 ```bash
 
@@ -157,6 +157,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
+
 Feito com ❤️ por Caroline Aquistapace
 
 ---
