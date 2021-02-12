@@ -42,13 +42,20 @@
 
 ## 💻 Sobre o projeto
 
-🐲 Dragon Sytem - É uma plataforma básica de cadastro de Dragões. Nela você poderá cadastrar, visualizar, editar Dragões de uma forma simples e rápida.
+🐲 [Dragon System](https://nodejs.org/en/) - É uma plataforma básica de cadastro de Dragões. Nela você poderá cadastrar, visualizar, editar Dragões de uma forma simples e rápida.
 
 
 Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://github.com/WoopSicredi/jobs/issues/6)
 
 ---
-
+## Demo
+Projeto hospedado no Heroku, clique [aqui](https://dashboard.heroku.com/apps) para acessar.
+### 🔒Acessando a aplicação
+Utilize algum dos usuários abaixo:
+ - E-mail: banguela@email.com.br Password:12345678
+ - E-mail: haku@email.com.br Password:12345678
+ - E-mail: mushu@email.com.br Password:12345678
+ ---
 ## ⚙️ Funcionalidades
 
 - [x] Os usuários poderão cadastrar Dragões na plataforma enviando:
@@ -86,8 +93,8 @@ Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://githu
 
 
 ---
-
 ## 🚀 Como executar o projeto
+
 
 ### Pré-requisitos
 
@@ -122,7 +129,7 @@ $ npm start
 ---
 
 ## 🛠 Tecnologias
-As seguintes tecnologias foram usadas na construção do projeto:
+As seguintes tecnologias foram usadas no desenvolvimento do projeto:
 - **[React](https://reactjs.org/)**  
 - **[TypeScript](https://www.typescriptlang.org/)**
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
@@ -133,7 +140,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 -   **[React-Spring](https://www.react-spring.io/)**
  -   **[React-Helmet](https://github.com/nfl/react-helmet)**
  -   **[Styled Components](https://styled-components.com/)**
- - - **[Polished](https://github.com/styled-components/polished)**
+ - **[Polished](https://github.com/styled-components/polished)**
 
 
 > Veja o arquivo  [package.json](https://github.com/aquistapace/dragon-system/blob/master/web/package.json)
