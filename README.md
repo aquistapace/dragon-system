@@ -48,7 +48,7 @@
 Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://github.com/WoopSicredi/jobs/issues/6)
 
 ---
-## Demo
+## 📺 Demo
 Projeto hospedado no Heroku, clique [aqui](https://dashboard.heroku.com/apps) para acessar.
 ### 🔒Acessando a aplicação
 Utilize algum dos usuários abaixo:
