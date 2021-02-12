@@ -78,7 +78,7 @@ Utilize algum dos usuários abaixo:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="login" title="Página de Login" src=".src/assets/home.png" width="400px">
+  <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
 
   <img alt="home" title="Pagina Home" src="./assets/login.png" width="400px">
   <img alt="notFound" title="Pagina Não Encontrada" src=".src/assets/page_not_found.png" width="400px">
