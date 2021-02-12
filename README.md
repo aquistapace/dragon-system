@@ -76,7 +76,7 @@ Utilize algum dos usuários abaixo:
 ## 🎨 Layout
 - O projeto desenvolvido possui Layout Responsivo.
 ### Web
-
+ #### Página de Login , Home e Not Found
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   ### Página de Login
   <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
@@ -87,12 +87,11 @@ Utilize algum dos usuários abaixo:
 </p>
 
 ### Mobile
-
+  #### Página de Login e Home
 <p align="center">
-  ### Página de Login
+
   <img alt="NextLevelWeek" title="#NextLevelWeek" src=".https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile_login.png" width="200px">
-### Página Home
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile_home" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile_home" width="200px">
 </p>
 
 
