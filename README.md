@@ -90,8 +90,8 @@ Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://githu
 ### Acessando a aplicação
 Utilize um dos usuários abaixo:
 - email:mushu@email.com.br senha:12345678
-   - email: banguela@email.com.br  senha:12345678
-   - email: haku@email.com.br    senha:12345678
+- email: banguela@email.com.br  senha:12345678
+ - email: haku@email.com.br    senha:12345678
 
 ### Pré-requisitos
 
