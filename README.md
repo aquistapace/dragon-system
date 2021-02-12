@@ -48,14 +48,6 @@
 Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://github.com/WoopSicredi/jobs/issues/6)
 
 ---
-## 📺 Demo
-Projeto hospedado no Heroku, clique [aqui](https://desafio-dragon-system.herokuapp.com/) para acessar.
-### 🔒Acessando a aplicação
-Utilize algum dos usuários abaixo:
- - E-mail: banguela@email.com.br Password:12345678
- - E-mail: haku@email.com.br Password:12345678
- - E-mail: mushu@email.com.br Password:12345678
- ---
 ## ⚙️ Funcionalidades
 
 - [x] Os usuários poderão cadastrar Dragões na plataforma enviando:
