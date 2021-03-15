@@ -64,7 +64,7 @@ Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://githu
 ## 🎨 Layout
 - O projeto desenvolvido possui Layout Responsivo.
 ### Web
-- Página de Login , Home e Not Found
+- Página de Login , Home , Perfil do Dragão e Not Found
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
 
