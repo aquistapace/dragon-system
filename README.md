@@ -69,7 +69,7 @@ Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://githu
   <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
 
   <img alt="home" title="Pagina Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/home.png" width="400px">
-  <img alt="notFound" title="Pagina Não Encontrada" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/perfil_dragao.PNG" width="400px">
+  <img alt="PerfilDragon" title="Perfil do Dragão" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/perfil_dragao.PNG" width="400px">
   <img alt="notFound" title="Pagina Não Encontrada" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/page_not_found.png" width="400px">
 </p>
 
