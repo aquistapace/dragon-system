@@ -3,10 +3,6 @@
 <p align="center">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/aquistapace/dragon-system">
-  
-  <a href="https://github.com/aquistapace/dragon-system/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aquistapace/dragon-system">
-  </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    
@@ -73,7 +69,8 @@ Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://githu
   <img alt="login" title="Página de Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/login.png" width="400px">
 
   <img alt="home" title="Pagina Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/home.png" width="400px">
-  <img alt="notFound" title="Pagina Não Encontrada" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets//page_not_found.png" width="400px">
+  <img alt="notFound" title="Pagina Não Encontrada" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/perfil_dragao.png" width="400px">
+  <img alt="notFound" title="Pagina Não Encontrada" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/page_not_found.png" width="400px">
 </p>
 
 ### Mobile
@@ -81,7 +78,7 @@ Projeto desenvolvido para o desafio [Desenvolvedor(a) Web Sicredi](https://githu
 <p align="center">
 
   <img alt="Mobile Home" title="Mobile Home" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/mobile_login.png" width="200px">
-  <img alt="Mobile Login" title="Mobile Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets//mobile_home.png" width="200px">
+  <img alt="Mobile Login" title="Mobile Login" src="https://github.com/aquistapace/dragon-system/blob/main/src/assets/mobile_home.png" width="200px">
 </p>
 
 
